@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ashdod_Port.Data/1.0.0": {
+        "dependencies": {
+          "Ashdod_Port.Core": "1.0.0"
+        },
+        "runtime": {
+          "Ashdod_Port.Data.dll": {}
+        }
+      },
+      "Ashdod_Port.Core/1.0.0": {
+        "runtime": {
+          "Ashdod_Port.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ashdod_Port.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ashdod_Port.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

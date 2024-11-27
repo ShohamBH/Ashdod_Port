@@ -1,0 +1,294 @@
+{
+  "format": 1,
+  "restore": {
+    "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj": {}
+  },
+  "projects": {
+    "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj",
+        "projectName": "Ashdod_Port.Core",
+        "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj",
+        "projectName": "Ashdod_Port.Service",
+        "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj": {
+                "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
+        "projectName": "Ashdod_Port.Api",
+        "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj": {
+                "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj"
+              },
+              "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj": {
+                "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj",
+        "projectName": "Ashdod_Port.Test",
+        "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj": {
+                "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.AssemblyReference.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.GeneratedMSBuildEditorConfig.editorconfig
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.AssemblyInfoInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.AssemblyInfo.cs
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.CoreCompileInputs.cache
