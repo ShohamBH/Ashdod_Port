@@ -1,0 +1,479 @@
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\testhost.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.deps.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.runtimeconfig.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\appsettings.Development.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\appsettings.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.exe
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\testhost.exe
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.deps.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.runtimeconfig.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Collections.Immutable.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Drawing.Common.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Security.Permissions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.assert.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.core.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.execution.dotnet.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Core.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Data.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Service.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Core.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Data.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Service.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.csproj.AssemblyReference.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.GeneratedMSBuildEditorConfig.editorconfig
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.AssemblyInfoInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.AssemblyInfo.cs
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.csproj.CoreCompileInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.csproj.CopyComplete
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\refint\Ashdod_Port.Test.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.genruntimeconfig.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\ref\Ashdod_Port.Test.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\appsettings.Development.json
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\appsettings.json
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\testhost.exe
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\testhost.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.deps.json
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.runtimeconfig.json
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.staticwebassets.endpoints.json
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.exe
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.deps.json
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.runtimeconfig.json
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.pdb
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.abstractions.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.assert.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.core.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.execution.dotnet.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Core.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Data.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Service.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.pdb
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Core.pdb
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Data.pdb
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Service.pdb
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.csproj.AssemblyReference.cache
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.AssemblyInfoInputs.cache
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.AssemblyInfo.cs
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.csproj.CoreCompileInputs.cache
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_P.6EF83CD9.Up2Date
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\refint\Ashdod_Port.Test.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.pdb
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.genruntimeconfig.cache
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\ref\Ashdod_Port.Test.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\appsettings.Development.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\appsettings.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\testhost.exe
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\testhost.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.deps.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.runtimeconfig.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.exe
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.deps.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.runtimeconfig.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Test.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\NuGet.Frameworks.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Collections.Immutable.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Drawing.Common.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Runtime.Caching.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Security.Permissions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.abstractions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.assert.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.core.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\xunit.execution.dotnet.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Core.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Data.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Service.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Api.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Core.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Data.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\Ashdod_Port.Service.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.csproj.AssemblyReference.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.GeneratedMSBuildEditorConfig.editorconfig
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.AssemblyInfoInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.AssemblyInfo.cs
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.csproj.CoreCompileInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.csproj.CopyComplete
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\refint\Ashdod_Port.Test.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\Ashdod_Port.Test.genruntimeconfig.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\obj\Debug\net6.0\ref\Ashdod_Port.Test.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\PortTest\bin\Debug\net6.0\AutoMapper.dll

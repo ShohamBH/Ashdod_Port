@@ -1,0 +1,56 @@
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.AssemblyReference.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.GeneratedMSBuildEditorConfig.editorconfig
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.AssemblyInfoInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.AssemblyInfo.cs
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.CoreCompileInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Service.deps.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Service.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Service.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Core.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Data.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Core.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Data.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.AssemblyReference.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.GeneratedMSBuildEditorConfig.editorconfig
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.AssemblyInfoInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.AssemblyInfo.cs
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.CoreCompileInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.CopyComplete
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\refint\Ashdod_Port.Service.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\ref\Ashdod_Port.Service.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Service.deps.json
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Service.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Service.pdb
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Core.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Data.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Core.pdb
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Data.pdb
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.AssemblyReference.cache
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.AssemblyInfoInputs.cache
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.AssemblyInfo.cs
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.CoreCompileInputs.cache
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_P.8198F185.Up2Date
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\refint\Ashdod_Port.Service.dll
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.pdb
+E:\שנה ו'\‏‏תיקיה חדשה\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\ref\Ashdod_Port.Service.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Service.deps.json
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Service.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Service.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Core.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Data.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Core.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\bin\Debug\net6.0\Ashdod_Port.Data.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.AssemblyReference.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.GeneratedMSBuildEditorConfig.editorconfig
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.AssemblyInfoInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.AssemblyInfo.cs
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.CoreCompileInputs.cache
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.csproj.CopyComplete
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\refint\Ashdod_Port.Service.dll
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\Ashdod_Port.Service.pdb
+W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Service\obj\Debug\net6.0\ref\Ashdod_Port.Service.dll
