@@ -2,6 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
+<<<<<<< HEAD
       "AutoMapper/13.0.1": {
         "type": "package",
         "dependencies": {
@@ -219,6 +220,8 @@
           }
         }
       },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
@@ -230,6 +233,7 @@
           "buildMultiTargeting/Microsoft.Extensions.ApiDescription.Server.targets": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.Extensions.Caching.Abstractions/6.0.1": {
         "type": "package",
         "dependencies": {
@@ -505,6 +509,8 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
       "Microsoft.OpenApi/1.2.3": {
         "type": "package",
         "compile": {
@@ -518,6 +524,7 @@
           }
         }
       },
+<<<<<<< HEAD
       "Microsoft.Win32.Registry/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -567,6 +574,8 @@
           }
         }
       },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
       "Swashbuckle.AspNetCore/6.2.3": {
         "type": "package",
         "dependencies": {
@@ -630,6 +639,7 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+<<<<<<< HEAD
       "System.Collections.Immutable/6.0.1": {
         "type": "package",
         "compile": {
@@ -892,6 +902,11 @@
         "dependencies": {
           "AutoMapper": "13.0.1"
         },
+=======
+      "Ashdod_Port.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         "compile": {
           "bin/placeholder/Ashdod_Port.Core.dll": {}
         },
@@ -899,6 +914,7 @@
           "bin/placeholder/Ashdod_Port.Core.dll": {}
         }
       },
+<<<<<<< HEAD
       "Ashdod_Port.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -913,13 +929,19 @@
           "bin/placeholder/Ashdod_Port.Data.dll": {}
         }
       },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
       "Ashdod_Port.Service/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+<<<<<<< HEAD
           "Ashdod_Port.Core": "1.0.0",
           "Ashdod_Port.Data": "1.0.0",
           "AutoMapper": "13.0.1"
+=======
+          "Ashdod_Port.Core": "1.0.0"
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         },
         "compile": {
           "bin/placeholder/Ashdod_Port.Service.dll": {}
@@ -931,6 +953,7 @@
     }
   },
   "libraries": {
+<<<<<<< HEAD
     "AutoMapper/13.0.1": {
       "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
       "type": "package",
@@ -1218,6 +1241,8 @@
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
       "sha512": "LH4OE/76F6sOCslif7+Xh3fS/wUUrE5ryeXAMcoCnuwOQGT5Smw0p57IgDh/pHgHaGz/e+AmEQb7pRgb++wt0w==",
       "type": "package",
@@ -1245,6 +1270,7 @@
         "tools/netcoreapp2.1/GetDocument.Insider.runtimeconfig.json"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Extensions.Caching.Abstractions/6.0.1": {
       "sha512": "zEtKmOJ3sZ9YxRgvgLtoQsqO069Kqp0aC6Ai+DkyE5uahtu1ynvuoDVFQgyyhVcJWnxCzZHax/3AodvAx2mhjA==",
       "type": "package",
@@ -1675,6 +1701,8 @@
         "version.txt"
       ]
     },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "Microsoft.OpenApi/1.2.3": {
       "sha512": "Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
       "type": "package",
@@ -1692,6 +1720,7 @@
         "microsoft.openapi.nuspec"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.Win32.Registry/4.7.0": {
       "sha512": "KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
       "type": "package",
@@ -1768,6 +1797,8 @@
         "version.txt"
       ]
     },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "Swashbuckle.AspNetCore/6.2.3": {
       "sha512": "cnzQDn0Le+hInsw2SYwlOhOCPXpYi/szcvnyqZJ12v+QyrLBwAmWXBg6RIyHB18s/mLeywC+Rg2O9ndz0IUNYQ==",
       "type": "package",
@@ -1849,6 +1880,7 @@
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
     },
+<<<<<<< HEAD
     "System.Collections.Immutable/6.0.1": {
       "sha512": "Cc+SfP+jyCmA1TnRnDA7cRZy5jbLyWodfuUJKDJ+PJZBwWkv8szz+ztSCHAonqnL01DRaHaS2ptc4bYIEdgvWw==",
       "type": "package",
@@ -2315,16 +2347,21 @@
         "version.txt"
       ]
     },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "Ashdod_Port.Core/1.0.0": {
       "type": "project",
       "path": "../Ashdod_Port.Core/Ashdod_Port.Core.csproj",
       "msbuildProject": "../Ashdod_Port.Core/Ashdod_Port.Core.csproj"
     },
+<<<<<<< HEAD
     "Ashdod_Port.Data/1.0.0": {
       "type": "project",
       "path": "../Ashdod_Port.Data/Ashdod_Port.Data.csproj",
       "msbuildProject": "../Ashdod_Port.Data/Ashdod_Port.Data.csproj"
     },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "Ashdod_Port.Service/1.0.0": {
       "type": "project",
       "path": "../Ashdod_Port.Service/Ashdod_Port.Service.csproj",
@@ -2334,11 +2371,15 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Ashdod_Port.Core >= 1.0.0",
+<<<<<<< HEAD
       "Ashdod_Port.Data >= 1.0.0",
       "Ashdod_Port.Service >= 1.0.0",
       "AutoMapper >= 13.0.1",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 6.0.36",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.36",
+=======
+      "Ashdod_Port.Service >= 1.0.0",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -2349,11 +2390,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
       "projectName": "Ashdod_Port.Api",
       "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
       "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\obj\\",
+=======
+      "projectUniqueName": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
+      "projectName": "Ashdod_Port.Api",
+      "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
+      "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+      "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\obj\\",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2375,6 +2424,7 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+<<<<<<< HEAD
             "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj": {
               "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj"
             },
@@ -2383,6 +2433,13 @@
             },
             "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj": {
               "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj"
+=======
+            "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj": {
+              "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj"
+            },
+            "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj": {
+              "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj"
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
             }
           }
         }
@@ -2397,6 +2454,7 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+<<<<<<< HEAD
           "AutoMapper": {
             "target": "Package",
             "version": "[13.0.1, )"
@@ -2411,6 +2469,8 @@
             "target": "Package",
             "version": "[6.0.36, )"
           },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.2.3, )"

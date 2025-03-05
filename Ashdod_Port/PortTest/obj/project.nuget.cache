@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "KQdvbrWSLPC4NQIfn2SF4kS9LjO83LPB/6m+TDuufv/jjG4uiJMVDoEGlj5jhyEdTtmgkCUdsRPfyrbiJBftxg==",
   "success": true,
   "projectFilePath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj",
@@ -35,13 +36,27 @@
     "C:\\Users\\student\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.36.0\\microsoft.identitymodel.tokens.6.36.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.9\\microsoft.netcore.platforms.3.1.9.nupkg.sha512",
+=======
+  "dgSpecHash": "MDNGIhvB4PtX8r5kwIZq9lXRP+AEt5PwXIEV61Hp6tgm9ch352DGYwU0+JmCQcaA49dR3OnvIM1x/h6t/MuqIA==",
+  "success": true,
+  "projectFilePath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "C:\\Users\\student\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\student\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "C:\\Users\\student\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
@@ -69,6 +84,7 @@
     "C:\\Users\\student\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\student\\.nuget\\packages\\system.collections.immutable\\6.0.1\\system.collections.immutable.6.0.1.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
@@ -81,6 +97,16 @@
     "C:\\Users\\student\\.nuget\\packages\\system.globalization.calendars\\4.3.0\\system.globalization.calendars.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.globalization.extensions\\4.3.0\\system.globalization.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.36.0\\system.identitymodel.tokens.jwt.6.36.0.nupkg.sha512",
+=======
+    "C:\\Users\\student\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.globalization.calendars\\4.3.0\\system.globalization.calendars.4.3.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.globalization.extensions\\4.3.0\\system.globalization.extensions.4.3.0.nupkg.sha512",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "C:\\Users\\student\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\system.io.compression.zipfile.4.3.0.nupkg.sha512",
@@ -102,32 +128,48 @@
     "C:\\Users\\student\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\student\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "C:\\Users\\student\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\student\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+=======
+    "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.cng\\4.3.0\\system.security.cryptography.cng.4.3.0.nupkg.sha512",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.csp\\4.3.0\\system.security.cryptography.csp.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0\\system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+=======
+    "C:\\Users\\student\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "C:\\Users\\student\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\student\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "C:\\Users\\student\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\xunit\\2.4.2\\xunit.2.4.2.nupkg.sha512",

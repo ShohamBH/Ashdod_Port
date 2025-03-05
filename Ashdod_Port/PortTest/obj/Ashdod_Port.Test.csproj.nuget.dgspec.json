@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
         "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\obj\\",
+=======
+    "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj": {}
+  },
+  "projects": {
+    "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj",
+        "projectName": "Ashdod_Port.Core",
+        "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\obj\\",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,12 +58,15 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+<<<<<<< HEAD
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
             }
           },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
           "imports": [
             "net461",
             "net462",
@@ -70,6 +87,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Data\\Ashdod_Port.Data.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -154,6 +172,16 @@
         "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
         "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\obj\\",
+=======
+    "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj",
+        "projectName": "Ashdod_Port.Service",
+        "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\obj\\",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,11 +203,16 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD
               "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj": {
                 "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj"
               },
               "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Data\\Ashdod_Port.Data.csproj": {
                 "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Data\\Ashdod_Port.Data.csproj"
+=======
+              "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj": {
+                "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj"
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
               }
             }
           }
@@ -193,12 +226,15 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+<<<<<<< HEAD
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
             }
           },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
           "imports": [
             "net461",
             "net462",
@@ -219,6 +255,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -227,6 +264,16 @@
         "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
         "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\obj\\",
+=======
+    "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
+        "projectName": "Ashdod_Port.Api",
+        "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\obj\\",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -248,6 +295,7 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD
               "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj": {
                 "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj"
               },
@@ -256,6 +304,13 @@
               },
               "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj": {
                 "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj"
+=======
+              "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj": {
+                "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj"
+              },
+              "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj": {
+                "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\Ashdod_Port.Service.csproj"
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
               }
             }
           }
@@ -270,6 +325,7 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+<<<<<<< HEAD
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
@@ -284,6 +340,8 @@
               "target": "Package",
               "version": "[6.0.36, )"
             },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -312,6 +370,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -320,6 +379,16 @@
         "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
         "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\PortTest\\obj\\",
+=======
+    "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj",
+        "projectName": "Ashdod_Port.Test",
+        "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\Ashdod_Port.Test.csproj",
+        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
+        "outputPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\PortTest\\obj\\",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -341,8 +410,13 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD
               "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj": {
                 "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj"
+=======
+              "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj": {
+                "projectPath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj"
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
               }
             }
           }

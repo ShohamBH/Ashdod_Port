@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Ashdod_Port\\Ashdod_Port\\",
   "Documents": [
     {
@@ -75,6 +76,29 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Entities\\DataContextServies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{542212C8-E2C5-4727-9800-58CD03EFCDF5}|PortTest\\PortTest.csproj|e:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\ashdod_port\\ashdod_port\\porttest\\containertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542212C8-E2C5-4727-9800-58CD03EFCDF5}|PortTest\\PortTest.csproj|solutionrelative:porttest\\containertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A308FE9-0CAD-4250-809D-8823E12DAB84}|Ashdod_Port\\Ashdod_Port.csproj|e:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\ashdod_port\\ashdod_port\\ashdod_port\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A308FE9-0CAD-4250-809D-8823E12DAB84}|Ashdod_Port\\Ashdod_Port.csproj|solutionrelative:ashdod_port\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A308FE9-0CAD-4250-809D-8823E12DAB84}|Ashdod_Port\\Ashdod_Port.csproj|e:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\ashdod_port\\ashdod_port\\ashdod_port\\controllers\\containerscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A308FE9-0CAD-4250-809D-8823E12DAB84}|Ashdod_Port\\Ashdod_Port.csproj|solutionrelative:ashdod_port\\controllers\\containerscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A308FE9-0CAD-4250-809D-8823E12DAB84}|Ashdod_Port\\Ashdod_Port.csproj|e:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\ashdod_port\\ashdod_port\\ashdod_port\\interface\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A308FE9-0CAD-4250-809D-8823E12DAB84}|Ashdod_Port\\Ashdod_Port.csproj|solutionrelative:ashdod_port\\interface\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A308FE9-0CAD-4250-809D-8823E12DAB84}|Ashdod_Port\\Ashdod_Port.csproj|e:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\ashdod_port\\ashdod_port\\ashdod_port\\entities\\datacontextservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A308FE9-0CAD-4250-809D-8823E12DAB84}|Ashdod_Port\\Ashdod_Port.csproj|solutionrelative:ashdod_port\\entities\\datacontextservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     }
   ],
   "DocumentGroupContainers": [
@@ -84,6 +108,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -122,11 +147,27 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-29T01:37:55.066Z",
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Program.cs",
+              "RelativeDocumentMoniker": "Ashdod_Port\\Program.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Program.cs",
+              "RelativeToolTip": "Ashdod_Port\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAxwDYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:04:33.813Z",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "ContrainerService.cs",
               "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Service\\ContrainerService.cs",
               "RelativeDocumentMoniker": "Ashdod_Port.Service\\ContrainerService.cs",
@@ -135,11 +176,22 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAA5wCQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-28T23:13:52.133Z",
+=======
+              "Title": "ContainerTests.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\PortTest\\ContainerTests.cs",
+              "RelativeDocumentMoniker": "PortTest\\ContainerTests.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\PortTest\\ContainerTests.cs",
+              "RelativeToolTip": "PortTest\\ContainerTests.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAADYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:49:13.311Z",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "ContainersControllers.cs",
               "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Controllers\\ContainersControllers.cs",
               "RelativeDocumentMoniker": "Ashdod_Port\\Controllers\\ContainersControllers.cs",
@@ -148,11 +200,35 @@
               "ViewState": "AgIAADsAAAAAAAAAAADwvzUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T18:20:41.304Z",
+=======
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Interface\\IDataContext.cs",
+              "RelativeDocumentMoniker": "Ashdod_Port\\Interface\\IDataContext.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Interface\\IDataContext.cs",
+              "RelativeToolTip": "Ashdod_Port\\Interface\\IDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:47:56.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContextServies.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Entities\\DataContextServies.cs",
+              "RelativeDocumentMoniker": "Ashdod_Port\\Entities\\DataContextServies.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Entities\\DataContextServies.cs",
+              "RelativeToolTip": "Ashdod_Port\\Entities\\DataContextServies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:41:41.839Z",
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "Container.cs",
               "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\\u200F\u200F\u05EA\u05D9\u05E7\u05D9\u05D4 \u05D7\u05D3\u05E9\u05D4\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Entities\\Container.cs",
               "RelativeDocumentMoniker": "Ashdod_Port.Core\\Entities\\Container.cs",
@@ -318,6 +394,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T18:41:41.839Z"
+=======
+              "Title": "ContainersControllers.cs",
+              "DocumentMoniker": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Controllers\\ContainersControllers.cs",
+              "RelativeDocumentMoniker": "Ashdod_Port\\Controllers\\ContainersControllers.cs",
+              "ToolTip": "E:\\\u05E9\u05E0\u05D4 \u05D5\u0027\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Controllers\\ContainersControllers.cs",
+              "RelativeToolTip": "Ashdod_Port\\Controllers\\ContainersControllers.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:20:41.304Z",
+              "EditorCaption": ""
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
             }
           ]
         }

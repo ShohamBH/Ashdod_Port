@@ -8,14 +8,19 @@
     ".NETCoreApp,Version=v6.0": {
       "Ashdod_Port.Data/1.0.0": {
         "dependencies": {
+<<<<<<< HEAD
           "Ashdod_Port.Core": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.36",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.36"
+=======
+          "Ashdod_Port.Core": "1.0.0"
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         },
         "runtime": {
           "Ashdod_Port.Data.dll": {}
         }
       },
+<<<<<<< HEAD
       "AutoMapper/13.0.1": {
         "dependencies": {
           "Microsoft.Extensions.Options": "6.0.1"
@@ -513,6 +518,9 @@
         "dependencies": {
           "AutoMapper": "13.0.1"
         },
+=======
+      "Ashdod_Port.Core/1.0.0": {
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         "runtime": {
           "Ashdod_Port.Core.dll": {}
         }
@@ -525,6 +533,7 @@
       "serviceable": false,
       "sha512": ""
     },
+<<<<<<< HEAD
     "AutoMapper/13.0.1": {
       "type": "package",
       "serviceable": true,
@@ -833,6 +842,8 @@
       "path": "system.windows.extensions/4.7.0",
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     "Ashdod_Port.Core/1.0.0": {
       "type": "project",
       "serviceable": false,

@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "epyteN4suAmNuyEAWXnls49dMuc+YaMo58r4gDPnwwVred/clZlsO4CORomXzJMbfgVM52kNDFK7YY/UbNjwVQ==",
   "success": true,
   "projectFilePath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
@@ -54,6 +55,18 @@
     "C:\\Users\\student\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+=======
+  "dgSpecHash": "hApan7UuvivqPR7GBwauWSGm4JeTC01VE+RuO+40lAM1G78qGrG62CsDM7suHDDtsw6qV25RLRvoZR3Nbhu93w==",
+  "success": true,
+  "projectFilePath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
   ],
   "logs": []
 }

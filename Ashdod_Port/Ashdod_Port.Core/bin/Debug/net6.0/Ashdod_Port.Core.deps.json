@@ -7,6 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Ashdod_Port.Core/1.0.0": {
+<<<<<<< HEAD
         "dependencies": {
           "AutoMapper": "13.0.1"
         },
@@ -57,6 +58,12 @@
         }
       },
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {}
+=======
+        "runtime": {
+          "Ashdod_Port.Core.dll": {}
+        }
+      }
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     }
   },
   "libraries": {
@@ -64,6 +71,7 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+<<<<<<< HEAD
     },
     "AutoMapper/13.0.1": {
       "type": "package",
@@ -99,6 +107,8 @@
       "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     }
   }
 }

@@ -26,6 +26,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+<<<<<<< HEAD
     },
     "Production1": {
       "commandName": "Project",
@@ -34,6 +35,8 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Production"
       }
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     }
   }
 }

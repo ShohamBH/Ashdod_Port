@@ -10,6 +10,7 @@ W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דה�
 W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Core\obj\Debug\net6.0\refint\Ashdod_Port.Core.dll
 W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Core\obj\Debug\net6.0\Ashdod_Port.Core.pdb
 W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Ashdod_Port\Ashdod_Port\Ashdod_Port.Core\obj\Debug\net6.0\ref\Ashdod_Port.Core.dll
+<<<<<<< HEAD
 W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Core\bin\Debug\net6.0\Ashdod_Port.Core.deps.json
 W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Core\bin\Debug\net6.0\Ashdod_Port.Core.dll
 W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\Ashdod_Port\Ashdod_Port\Ashdod_Port.Core\bin\Debug\net6.0\Ashdod_Port.Core.pdb
@@ -45,3 +46,5 @@ W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דה�
 W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Core\obj\Debug\net6.0\refint\Ashdod_Port.Core.dll
 W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Core\obj\Debug\net6.0\Ashdod_Port.Core.pdb
 W:\‏‏כתות ו\התמחויות\הנדסת תוכנה\תלמידות\דהן שוהם\dot_net\Web\Ashdod_Port\Ashdod_Port\Ashdod_Port.Core\obj\Debug\net6.0\ref\Ashdod_Port.Core.dll
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164

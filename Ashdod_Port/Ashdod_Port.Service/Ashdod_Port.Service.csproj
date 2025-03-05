@@ -7,12 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="AutoMapper" Version="13.0.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Ashdod_Port.Core\Ashdod_Port.Core.csproj" />
     <ProjectReference Include="..\Ashdod_Port.Data\Ashdod_Port.Data.csproj" />
+=======
+    <ProjectReference Include="..\Ashdod_Port.Core\Ashdod_Port.Core.csproj" />
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
   </ItemGroup>
 
 </Project>

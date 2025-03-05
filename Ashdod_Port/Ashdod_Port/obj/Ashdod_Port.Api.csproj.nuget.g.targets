@@ -2,6 +2,9 @@
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.server\3.0.0\build\Microsoft.Extensions.ApiDescription.Server.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.server\3.0.0\build\Microsoft.Extensions.ApiDescription.Server.targets')" />
+<<<<<<< HEAD
     <Import Project="$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\6.0.4\buildTransitive\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\6.0.4\buildTransitive\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.targets')" />
+=======
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
   </ImportGroup>
 </Project>

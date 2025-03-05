@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Ashdod_Port.Core.DTOs;
 using Ashdod_Port.Core.Entities;
 using Ashdod_Port.Core.Interface;
@@ -21,10 +22,21 @@ namespace Ashdod_Port.Service
         {
             return _mapper.Map<List<SupplierDTO>>(_dataContext.SuppliersLst.ToList());
 
+=======
+﻿using Ashdod_Port.Core.Entities;
+namespace Ashdod_Port.Service
+{
+    public class SupplierService
+    {
+        public List<string> GetSuppliers()
+        {
+            return _dataContext.SuppliersLst;
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         }
 
         public Supplier GetSupplier(string id)
         {
+<<<<<<< HEAD
             Supplier s = _dataContext.SuppliersLst.FirstOrDefault(s => s.Id == id);
             return s;
         }
@@ -76,6 +88,32 @@ namespace Ashdod_Port.Service
             _dataContext.SuppliersLst.Remove(supplier);
             _dataContext.SaveChanges();
             return true;
+=======
+            return _dataContext.SuppliersLst.FirstOrDefault(s => s.Id == id);
+        }
+
+        public void AddSupplier( Supplier supplier)
+        {
+            _dataContext.SuppliersLst.Add(supplier);
+        }
+       
+        public void UpdateSupplier(string id,  Supplier supplier,int index)
+        {
+            _dataContext.SuppliersLst[index] = supplier;
+        }
+      
+        public void DeleteSupplierId(int s )
+        {
+            //int s = _dataContext.SuppliersLst.FindIndex(s => s.Id == id);
+            //if (s == -1)
+            //    NotFound("id Supplier not found");
+            _dataContext.SuppliersLst.RemoveAt(s);
+        }
+      
+        public void DeleteSupplier(Supplier supplier)
+        {
+           _dataContext.SuppliersLst.Remove(supplier);
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         }
     }
 }

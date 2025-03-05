@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "s92UUK2zK14UXc6qtDH+sPzlXfZPyZToQNj1LYere9D5k/wMgD1u2/bAplma/mH0Do+NKsfH924L+YisWNNfpQ==",
   "success": true,
   "projectFilePath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Web\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj",
@@ -10,5 +11,11 @@
     "C:\\Users\\student\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\student\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "ignjHKlzCFxJYGdLzPsVKmNxrhhsewAzXDNvxKPZzGW9chPdQOqUxPq61P4uPd6AgQKMd2noYWc6q2HWcD3yEg==",
+  "success": true,
+  "projectFilePath": "W:\\‏‏כתות ו\\התמחויות\\הנדסת תוכנה\\תלמידות\\דהן שוהם\\dot_net\\Ashdod_Port\\Ashdod_Port\\Ashdod_Port.Core\\Ashdod_Port.Core.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
   "logs": []
 }

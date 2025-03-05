@@ -1,17 +1,26 @@
+<<<<<<< HEAD
 ﻿using Ashdod_Port.Core.DTOs;
 using Ashdod_Port.Core.Entities;
 using Ashdod_Port.Core.Interface;
+=======
+﻿using Ashdod_Port.Core.Interface;
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
 using Ashdod_Port.Service;
 using Microsoft.AspNetCore.Mvc;
 
 using Container = Ashdod_Port.Core.Entities.Container;
 
+<<<<<<< HEAD
 namespace Ashdod_Port.Api.Controllers
+=======
+namespace Ashdod_Port.Controllers
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
 {
     [Route("api/[controller]")]
     [ApiController]
     public class ContainersControllers : ControllerBase
     {
+<<<<<<< HEAD
       
         private readonly IContrainerService _contrainerService;
 
@@ -48,11 +57,28 @@ namespace Ashdod_Port.Api.Controllers
                 return NotFound();
             return Ok(containers);
 
+=======
+        private readonly IDataContext _dataContext;
+        private readonly ContrainerService _contrainerService;
+
+        public ContainersControllers(IDataContext dataContext)
+        {
+            _dataContext = dataContext;
+        }
+       
+        //private static List<Container> containers = new List<Container> { };
+
+        [HttpGet]
+        public ActionResult<IEnumerable<Container>> Get()
+        {
+            return Ok(_dataContext.ContainersList);
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         }
 
         [HttpGet("{id}")]
         public ActionResult<Container> Get(int id)
         {
+<<<<<<< HEAD
             if ( _contrainerService.GetContainer(id) != null)
                 return Ok(_contrainerService.GetContainer(id));
             return NotFound("Id container not found");
@@ -93,17 +119,73 @@ namespace Ashdod_Port.Api.Controllers
                 return Ok();
             
             return NotFound("Id container not found");
+=======
+            Container con = _contrainerService.GetContainer(id);
+            if (con == null)
+                return NotFound("Id container not found");
+            return Ok(con);
+        }
+
+        [HttpPost]
+        public ActionResult Post([FromBody] Container container)
+        {
+            if (container.Weight <= 0)
+                return BadRequest("Weight must be positive");
+
+           _contrainerService.AddContainer(container);
+            return Ok();
+        }
+
+        [HttpPut("{id}")]
+        public ActionResult Put(int id, [FromBody] Container container)
+        {
+            int index = _dataContext.ContainersList.FindIndex(c => c.IdNum == id);
+
+            if (index == -1)
+                return NotFound("Id container not found");
+            _contrainerService.UpdateContainer(id, container,index);
+
+            //_dataContext.ContainersList[index] = container;
+            //_dataContext.ContainersList[index].IdNum = id;//שישאר ב ו ג שהיה 
+
+            return Ok();
+        }
+
+        [HttpDelete("deleteById/{id}")]
+        public ActionResult Delete(int id)
+        {
+            int index = _dataContext.ContainersList.FindIndex(c => c.IdNum == id);
+
+            if (index == -1)
+                return NotFound("Id container not found");
+            _contrainerService.DeleteContainerId(index);
+            //_dataContext.ContainersList.RemoveAt(index);
+            return Ok();
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
         }
 
 
         [HttpDelete]
         public ActionResult Delete([FromBody] Container container)
         {
+<<<<<<< HEAD
             if (_contrainerService.DeleteContainer(container))
                 return Ok();
             return NotFound("Container not found");
         }
 
         
+=======
+
+            //bool removed = _dataContext.ContainersList.Remove(container);
+
+            //if (!removed)
+            //    return NotFound("Container not found");
+
+
+            _contrainerService.DeleteContainer(container);
+            return Ok();
+        }
+>>>>>>> 4811816a9a0098ff7f3e96c3b56f0b7a7afd2164
     }
 }
